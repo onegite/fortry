@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Watch Dune 2021 Movie Online Full HD Free's documentation!
-=====================================================================
+Watch Dune 2021 Movie Online Full HD Free!
+==========================================
 
 .. toctree::
    :maxdepth: 2
